@@ -1,0 +1,19 @@
+{
+    "name": "devicaro16/microservices-common",
+    "description": "Package Files Utils Microservices Courses",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devicaro16\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ícaro Rebouças",
+            "email": "icaroip15@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
